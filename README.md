@@ -5,8 +5,12 @@
 - 📫 How to reach me **chinthasiva872@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_nanTUnMvA2yIrPwMjSbeDizTs14krA2/view?usp=share_link">Resume</a>
 
+
 # 💫 About Me:
 Hello! I'm a full stack developer named Chinta Sivanarayana, and I'm passionate about creating digital products like websites and web applications that make people's daily lives better. I adore working on stimulating and demanding projects that put everything I've learned to the test. developing websites using the MERN stack and programming languages like JavaScript and React. I'm looking forward to a few unique and difficult opportunities.
+
+<div margin="auto" hight="300px" border="1px" solid "green"><img src="https://cdn.dribbble.com/users/537878/screenshots/3400705/guy-at-desk.gif" width=400/>
+</div>
 
 
 ## 🌐 Socials:
