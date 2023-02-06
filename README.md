@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chintasiva
-- 👀 I’m interested in Jasmin
-- 🌱 I’m currently learning How to Love
+- 🌱 I’m currently learning Full Stack Web Development
+- 💬 Ask me about  **HTML,CSS,JavaScript,React,Redux,Node.js,Express.js,MongoDB**
 - 👨‍💻 All of my projects are available at  **<a href="https://chintasiva.github.io/">Protfolio</a>**
 - 📫 How to reach me **chinthasiva872@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_nanTUnMvA2yIrPwMjSbeDizTs14krA2/view?usp=share_link">Resume</a>
