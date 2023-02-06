@@ -9,7 +9,7 @@
 # 💫 About Me:
 Hello! I'm a full stack developer named Chinta Sivanarayana, and I'm passionate about creating digital products like websites and web applications that make people's daily lives better. I adore working on stimulating and demanding projects that put everything I've learned to the test. developing websites using the MERN stack and programming languages like JavaScript and React. I'm looking forward to a few unique and difficult opportunities.
 
-<div margin="auto" hight="300px" border="1px" solid "green">
+<div margin="auto" hight="300px" border="1px" width="100%" solid "green">
   <img src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif"  width=400/>
 </div>
 
